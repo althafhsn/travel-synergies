@@ -59,7 +59,7 @@ const VideoSection = () => {
                 </div>
                 <div className="flex py-10 items-end justify-end hover">
                     <Button
-                        type="buton"
+                        type="button"
                         title='Explore More'
                         variant="btn_white_text"
                         icon="./icons/explore.svg"
